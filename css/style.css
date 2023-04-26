@@ -50,3 +50,29 @@ table {
 
 
 /* Write your css below here */
+body{
+	background-color: gray;
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+}
+
+section{
+	background-color: gray;
+	text-align: center;
+	height: 40%;
+	margin-top: 2%;	
+}
+
+
+footer{
+	background-color: blue;
+	height: 18%; 
+	margin-top: 38vh;
+	color: white;
+	text-align: center;
+}
+
+
